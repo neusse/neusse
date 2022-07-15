@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 ### Electronics
 
-  ### KICAD
+  * KICAD
 
-  * [SplunkArchitect](https://github.com/neusse/SplunkArchitect) - Splunk Stuff hmmm
+  ** [SplunkArchitect](https://github.com/neusse/SplunkArchitect) - Splunk Stuff hmmm
 
   ### MicroControlers
 
