@@ -24,7 +24,10 @@ Here are some ideas to get you started:
 
 ### Electronics
 
-  * KICAD
+  ### KICAD
+  * [MyKicad](https://github.com/neusse/MyKicad) - 6501 assembler
+  
+  
   * Reference
      DataSheets
 
@@ -34,6 +37,9 @@ Here are some ideas to get you started:
 
 
   ### 6502
+  
+  * [cc65](https://github.com/neusse/cc65) - 6502 c compiler
+  * [vasm](https://github.com/neusse/vasm) - 6501 assembler
 
 
 ### Programming
