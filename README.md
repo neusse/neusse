@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### Electronics
 
   ### KICAD
-  * [MyKicad](https://github.com/neusse/MyKicad) - 6501 assembler
+  * [MyKicad](https://github.com/neusse/MyKicad) - My KiCad projects
   
   
   * Reference
