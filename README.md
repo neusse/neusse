@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 * [Slpunk-Stuff](https://github.com/neusse/Splunk-Stuff) - Splunk Stuff hmmm
 * [SplunkArchitect](https://github.com/neusse/SplunkArchitect) - Splunk Stuff hmmm
-* [vscode-extension-splunk](https://github.com/neusse/vscode-extension-splunk) - Splunk Stuff vscode extension for Splunk
+
 
 
 ### Electronics
