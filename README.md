@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 ### Electronics
 
   * KICAD
+  * Reference
+     DataSheets
 
   ** [SplunkArchitect](https://github.com/neusse/SplunkArchitect) - Splunk Stuff hmmm
 
@@ -40,7 +42,9 @@ Here are some ideas to get you started:
 
 
 
+### Reference
 
+ * some docs and things
 
 <!--
 ### Primary
