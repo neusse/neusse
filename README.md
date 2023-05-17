@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Splunk
 
-* [Slpunk-Stuff](https://github.com/neusse/Splunk-Stuff) - Splunk Stuff hmmm
+* [Splunk-Stuff](https://github.com/neusse/Splunk-Stuff) - Splunk Stuff hmmm
 * [SplunkArchitect](https://github.com/neusse/SplunkArchitect) - Splunk Stuff hmmm
 * [ansible-role](https://github.com/neusse/ansible-role-for-splunk) - ansible role for splunk
 
