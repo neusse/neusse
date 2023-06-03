@@ -128,3 +128,5 @@ Here are some ideas to get you started:
 <p align="center"><a href="https://www.buymeacoffee.com/vsergeev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=vsergeev&button_colour=5F7FFF&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00"></a></p align="center">
 
 -->
+capability::rest_access_server_endpoints]
+* Lets a user run the 'rest' command and access 'services/server/' endpoints.
