@@ -6,7 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/neusse?style=for-the-badge&logo=github&label=Follow)](https://github.com/neusse)
 [![Profile views](https://komarev.com/ghpvc/?username=neusse&style=for-the-badge&color=blueviolet)](https://github.com/neusse)
-[![Discord](https://img.shields.io/badge/Discord-Join_the_lab-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yB93UABH)
+[![Discord](https://img.shields.io/badge/Discord-Join_the_lab-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fvE9BVsC)
 
 </div>
 
